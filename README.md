@@ -1,18 +1,18 @@
-# Olá, sou Tatiany Souza! 👋
+# hey, i'm Tatiany Souza! 👋
 
-E aí, pessoal! Aqui você pode me encontrar explorando e criando aplicações incríveis.
-Minha jornada é uma busca constante por aprendizado e inovação, obrigada por dar uma passada por aqui e conferir meus códigos! 🚀
+Hey guys! Here you can find me exploring and creating amazing applications.
+My journey is a constant search for learning and innovation, thank you for stopping by and checking out my codes! 🚀
 
-## Sobre Mim
-- 💻 Técnica em informática - IFPB.
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFPB.
-- ⏳ Quatro anos de experiência na área de tecnologia.
-- 🌐 Proficiente em JavaScript, Python, C, HTML, CSS e muito mais.
+## About me
+- 💻 IT technician - IFPB.
+- 🎓 Systems Analysis and Development Student - IFPB.
+- ⏳ Four years of experience in the technology area.
+- 🌐 Proficient in JavaScript, Python, C, HTML, CSS and more.
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianysouza&layout=compact)
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 <div align="left">
   <img align="center" alt="Tatiany-C" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Tatiany-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -1,4 +1,4 @@
-# hey, i'm Tatiany Souza! 👋
+# Hey, i'm Tatiany Souza! 👋
 
 Hey guys! Here you can find me exploring and creating amazing applications.
 My journey is a constant search for learning and innovation, thank you for stopping by and checking out my codes! 🚀

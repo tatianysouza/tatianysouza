@@ -20,7 +20,9 @@ My journey is a constant search for learning and innovation, thank you for stopp
   <img align="center" alt="Tatiany-html" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Tatiany-Bot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tatiany-py" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Tatiany-py" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Tatiany-dj" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Tatiany-sql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+          
   <img align="center" alt="Tatiany-git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Tatiany-github" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 

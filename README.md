@@ -1,16 +1,21 @@
-# Hey, i'm Tatiany Souza! 👋
-
-Hey guys! Here you can find me exploring and creating amazing applications.
-My journey is a constant search for learning and innovation, thank you for stopping by and checking out my codes! 🚀
+<div align="center">
+<h1>Hey, i'm Tatiany Souza! ⚡</h1> 
+</div>
+Hey, folks! Welcome to my little corner of controlled chaos on the internet, where I’m always trying something new while keeping my sanity on the edge. But that's never enough to stop me – I'm always learning and seeking more. Thanks for stopping by to witness the madness!🚀
 
 ## About me
 - 💻 IT technician - IFPB.
 - 🎓 Systems Analysis and Development Student - IFPB.
-- ⏳ Four years of experience in the technology area.
+- ⏳ Five years of experience in the technology area.
 - 🌐 Proficient in JavaScript, Python, C, HTML, CSS and more.
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianysouza&layout=compact)
+<div align="center">
+  <a href="https://github.com/tatianysouza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatianysouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9&bg_color=0d1117&border_color=9d4edd"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianysouza&layout=compact&langs_count=7&theme=dracula&title_color=9d4edd&text_color=c9d1d9&bg_color=0d1117&border_color=9d4edd"/>
+  </a>
+</div>
 
 ## Tools and Technologies
 <div align="left">
